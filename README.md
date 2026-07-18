@@ -1,6 +1,6 @@
 # Hi, I'm Thomas 👋
 
-**Geospatial software engineer — backend & mobile — building Earth Observation and sensor tools that ship to production.**
+**Geospatial software engineer (backend + mobile) who builds software and Earth observation systems that actually ship to production - not just notebooks.**
 
 I have a geomatics background and I write real software, so I sit in the gap between spatial data and production systems: collecting it (mobile sensors), processing it (Python / EO pipelines), and delivering it (APIs, dashboards). Strongest on the backend and mobile side, and comfortable across the stack.
 
