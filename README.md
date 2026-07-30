@@ -30,7 +30,7 @@ I have a geomatics background and I write real software, so I sit in the gap bet
 
 ## 🤝 Open to work
 
-I'm open to **internships, collaborations, and freelance work** in Earth Observation, geospatial data science, and backend / software engineering. Links up top ☝️ — let's talk.
+I'm open to **internships, collaborations, and freelance work** in Earth Observation, geospatial data science, and backend / software engineering. Let us talk.
 
 ---
 
